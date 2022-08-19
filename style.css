@@ -1,0 +1,12 @@
+.heading{
+    font-size: 19px;
+    font-weight: bolder;
+}
+#song_name{
+    font-size: 20px;
+    font-weight: bold;
+}
+.note{
+    font-size: 18px;
+    font-weight: bold;
+}
